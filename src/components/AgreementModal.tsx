@@ -45,7 +45,7 @@ export function AgreementModal({ isOpen, onClose, title, type }: AgreementModalP
                   개인정보 수집 및 이용 동의서 <span className="text-red-500 font-extrabold text-xs ml-1">(필수사항)</span>
                 </h4>
                 <p className="text-neutral-500 text-xs leading-relaxed">
-                  <strong>(주)프라임에셋 보험대리점(이하 '회사')</strong> 및 <strong>소속 보험설계사 유영환(손·생보 협회 등록번호: 제20051077110001호)</strong>은 「개인정보 보호법」 제15조, 제22조 및 「신용정보의 이용 및 보호에 관한 법률」 제32조, 제33조에 따라 고객님의 소중한 개인정보를 안전하게 보호하며, <strong>핀토스 인슈클리닉</strong> 맞춤형 보장 분석 및 1:1 상담 서비스를 제공하기 위하여 아래와 같이 개인정보를 수집·이용하고자 합니다.
+                  <strong>(주)프라임에셋 보험대리점(이하 '회사')</strong> 및 <strong>소속 보험설계사 유영환(손·생보 협회 등록번호: 제20051077110001호)</strong>은 「개인정보 보호법」 제15조, 제22조 및 「신용정보의 이용 및 보호에 관한 법률」 제32조, 제33조에 따라 고객님의 소중한 개인정보를 안전하게 보호하며, <strong>핀토스 보험케어</strong> 맞춤형 보장 분석 및 1:1 상담 서비스를 제공하기 위하여 아래와 같이 개인정보를 수집·이용하고자 합니다.
                 </p>
               </div>
 
@@ -119,7 +119,7 @@ export function AgreementModal({ isOpen, onClose, title, type }: AgreementModalP
                   마케팅 활용 및 광고성 정보 수신 동의서 <span className="text-neutral-400 text-xs font-normal ml-1">(선택사항)</span>
                 </h4>
                 <p className="text-neutral-500 text-xs leading-relaxed">
-                  <strong>(주)프라임에셋 보험대리점</strong>은 「개인정보 보호법」 제22조 제4항 및 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제50조에 따라, <strong>핀토스 인슈클리닉</strong> 이용 고객님께 꼭 필요한 맞춤형 보험 혜택 및 유용한 금융 소식을 안내해 드리고자 합니다.
+                  <strong>(주)프라임에셋 보험대리점</strong>은 「개인정보 보호법」 제22조 제4항 및 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제50조에 따라, <strong>핀토스 보험케어</strong> 이용 고객님께 꼭 필요한 맞춤형 보험 혜택 및 유용한 금융 소식을 안내해 드리고자 합니다.
                 </p>
               </div>
 
@@ -202,7 +202,7 @@ export function AgreementModal({ isOpen, onClose, title, type }: AgreementModalP
                   서비스 이용 및 소비자 유의사항 안내
                 </h4>
                 <p className="text-neutral-500 text-xs">
-                  핀토스 인슈클리닉의 보장 분석 및 보험 상담 서비스 이용 시 유의사항입니다.
+                  핀토스 보험케어의 보장 분석 및 보험 상담 서비스 이용 시 유의사항입니다.
                 </p>
               </div>
 

@@ -531,7 +531,7 @@ export default function App() {
               {/* Title group */}
               <div className="relative z-10 space-y-3 max-w-md">
                 <span className="text-xs sm:text-sm font-sans font-extrabold tracking-widest text-white/90 bg-white/10 px-3.5 py-1.5 rounded-full uppercase border border-white/10 inline-block">
-                  FINTOS INSUCLINIC CENTER
+                  FINTOS INSUCARE CENTER
                 </span>
                 <h1 className="font-display font-black text-3xl sm:text-4xl leading-tight tracking-tight">
                   보험가입, 잘한걸까?<br />
@@ -542,7 +542,7 @@ export default function App() {
               {/* Hover dynamic result card */}
               <div className="relative z-10 mt-8 bg-white/10 backdrop-blur-md px-6 py-[22px] rounded-2.5xl border border-white/15 shadow-xl inline-block text-left w-full max-w-[320px] transition-transform hover:scale-[1.02]">
                 <div className="flex justify-between items-center mb-1">
-                  <span className="text-xs uppercase text-brand-green-light font-bold">INSUCLINIC DIAL</span>
+                  <span className="text-xs uppercase text-brand-green-light font-bold">INSURE CARE DIAL</span>
                   <span className="font-display text-xs text-white/70">85.06.13</span>
                 </div>
                 <div className="flex justify-between items-end">
@@ -585,7 +585,7 @@ export default function App() {
                   Bohum Store Service Portal
                 </p>
                 <h2 className="font-sans font-bold text-xl sm:text-2xl text-neutral-dark flex items-center justify-center gap-1.5">
-                  <span className="text-2xl">📝</span> 인슈클리닉 상담 서비스
+                  <span className="text-2xl">📝</span> 보험케어 상담 서비스
                 </h2>
                 <p className="text-xs sm:text-sm text-neutral-gray leading-relaxed text-center">
                   현재 가입된 보장을 종합적으로 점검하고 <br />
@@ -1044,7 +1044,7 @@ export default function App() {
                       className="w-full md:w-1/2 mx-auto h-12 bg-brand-blue text-white rounded-xl font-bold text-sm sm:text-base tracking-wide shadow-lg shadow-brand-blue/15 hover:bg-brand-blue-hover active:scale-[0.98] transition-all flex items-center justify-center gap-1.5 mt-2 cursor-pointer"
                     >
                       <ShieldCheck size={20} />
-                      <span>인슈클리닉 상담하기</span>
+                      <span>보험케어 상담하기</span>
                     </button>
                   </>
                 )}
@@ -1479,11 +1479,11 @@ export default function App() {
             <footer className="bg-neutral-bg border-t border-neutral-border">
               <div className="w-full py-8 px-5 flex flex-col gap-5 max-w-container-max mx-auto font-sans">
                 <div className="flex justify-between items-end flex-wrap gap-4 border-b border-neutral-border pb-4">
-                  <span className="font-display text-xl font-black text-neutral-dark tracking-tight">InsuClinic.</span>
+                  <span className="font-display text-xl font-black text-neutral-dark tracking-tight">InsureCare.</span>
                   <div className="flex gap-4.5 text-xs">
                     <span className="font-bold text-neutral-medium">(주)프라임에셋</span>
                     <button
-                      onClick={() => setActiveTermModal({ isOpen: true, title: '핀토스 인슈클리닉 개인정보 처리방침 (수집·이용 동의)', type: 'privacy' })}
+                      onClick={() => setActiveTermModal({ isOpen: true, title: '핀토스 보험케어 개인정보 처리방침 (수집·이용 동의)', type: 'privacy' })}
                       className="font-bold text-brand-blue underline cursor-pointer"
                     >
                       개인정보처리방침
@@ -1494,7 +1494,7 @@ export default function App() {
                 <div className="grid grid-cols-1 gap-1.5 text-[11px] text-neutral-gray leading-relaxed">
                   <p><strong>상호:</strong> (주)프라임에셋 보험대리점  |  <strong>모집종사자:</strong> 설계사 유영환 (협회등록번호: 제20051077110001호)</p>
                   <p><strong>대표 문의:</strong> 010-2627-7771  |  <strong>개인정보관리책임자:</strong> 유영환</p>
-                  <p className="text-[10px] text-neutral-muted mt-2">© 2026 InsuClinic Co., Ltd. All rights reserved.</p>
+                  <p className="text-[10px] text-neutral-muted mt-2">© 2026 InsureCare Co., Ltd. All rights reserved.</p>
                 </div>
               </div>
             </footer>

@@ -19,7 +19,7 @@ export function Header({ onContactClick }: HeaderProps) {
             <ShieldAlert size={18} className="fill-current" />
           </div>
           <span className="font-display text-lg font-extrabold tracking-tight bg-gradient-to-r from-brand-blue to-brand-blue-hover bg-clip-text text-transparent">
-            핀토스 인슈클리닉
+            핀토스 보험케어
           </span>
         </button>
         

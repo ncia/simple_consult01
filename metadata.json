@@ -1,5 +1,5 @@
 {
-  "name": "InsuClinic",
+  "name": "InsureCare",
   "description": "29개 보험사의 데이터를 기반으로 중복보장을 확인하고 불필요한 보장을 정리하여 보험료를 최적화하는 전문 보장 분석 서비스.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

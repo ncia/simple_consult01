@@ -242,7 +242,7 @@ export function DiagnosticsReport({ formData, onReset }: DiagnosticsReportProps)
           </button>
           
           <button
-            onClick={() => alert('PDF 생성 시뮬레이션: "InsuClinic_보장진단_리포트.pdf" 파일 다운로드 대기열에 추가되었습니다.')}
+            onClick={() => alert('PDF 생성 시뮬레이션: "InsureCare_보장진단_리포트.pdf" 파일 다운로드 대기열에 추가되었습니다.')}
             className="flex-1 h-14 bg-brand-blue text-white hover:bg-brand-blue-hover font-bold text-xs rounded-xl shadow-lg shadow-brand-blue/10 flex items-center justify-center gap-1.5 transition-all active:scale-95 cursor-pointer"
           >
             <Download size={14} />
